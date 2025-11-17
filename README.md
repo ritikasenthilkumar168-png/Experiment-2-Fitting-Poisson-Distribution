@@ -16,7 +16,7 @@ Python and Visual Component Tool
 <img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
 
 # Program:
-# Name: Rtika. S
+# Name: Ritika. S
 # Reg No: 25009202
 # Slot Name: 3P1-1
 
